@@ -15,13 +15,13 @@ authors:
   sal:
     name: Sal
     display_name: Sal
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    gravatar: 
     email: wowthemesnet@gmail.com
     description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
   carson:
     name: Carson
     display_name: Carson
-    gravatar: 
+    gravatar: ac560d1e105e432468a141c03f374007
     email: cherness@g.hmc.edu
     description: "Computer Science major at Harvey Mudd College."
 
