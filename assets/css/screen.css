@@ -439,6 +439,7 @@ blockquote {
     .jumbotron {
         margin-bottom: 0;
         border-radius: 0;
+        padding-bottom: 25px;
     }
 
     .listfeaturedtag .card {
