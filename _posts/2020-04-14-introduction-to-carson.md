@@ -3,10 +3,8 @@ layout: post
 title:  "Author Introduction: Carson"
 author: carson
 categories: [ introduction, Carson ]
-tags: [red, yellow]
 image: assets/images/writing.jpg
 description: "Introduction to Carson"
-featured: true
 ---
 
 Learn more about Carson.
