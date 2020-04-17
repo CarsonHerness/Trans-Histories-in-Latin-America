@@ -4,12 +4,14 @@ title:  "Author Introduction: Carson"
 author: carson
 categories: [ introduction, Carson ]
 tags: [red, yellow]
-image: assets/images/11.jpg
+image: assets/images/writing.jpg
 description: "Introduction to Carson"
 featured: true
 ---
 
-Learn more about Carson
+Learn more about Carson.
+
+Photo by Joanna Kosinska on Unsplash.
 
 ### What's his deal?
 
