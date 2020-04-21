@@ -769,7 +769,7 @@ iframe {
 
 @media (min-width:768px) {
     .jumbotron.fortags {
-        margin-bottom: -50px;
+        margin-bottom: 0px;
         margin-top: 3rem;
         padding: 0;
         height: 350px;
