@@ -2,7 +2,7 @@
 layout: post
 title:  "Transgender Laws Across South America"
 author: carson
-categories: [ South America, Ecuador, law ]
+categories: [ Latin America, Ecuador, law, name change]
 featured: true
 image: "./assets/images/marcha_de_las_putas.jpg"
 ---

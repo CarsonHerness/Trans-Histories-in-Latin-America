@@ -2,7 +2,7 @@
 layout: post
 title:  "Trans Health Care"
 author: carson
-categories: [ medical care ]
+categories: [ health care, Latin America, hormones ]
 image: assets/images/health-care.jpg
 ---
 Learn about access to trans related health care.
