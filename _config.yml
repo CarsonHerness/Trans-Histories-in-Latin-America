@@ -21,8 +21,19 @@ authors:
     web: https://github.com/CarsonHerness/
   vi:
     name: Vi
-    display_name: Vi
-
+    display_name: Vi Nguyen
+    gravatar: eab12af4d916249cad26af4ff67907af
+    email: vnguyen21@cmc.edu
+    description: "Junior studying Government and History at Claremont McKenna College"
+  becky:
+    name: Becky
+    display_name: Becky
+  jordy:
+    name: Jordy
+    display_name: Jordy
+    gravatar: 62a592d75b18fe3ef4f5553aa1c87cd5
+    description: "Jordy is a Junior at Pomona College. (she/her/hers)."
+    
 # Plugins
 plugins:
   - jekyll-paginate
