@@ -6,11 +6,13 @@ categories: [ Brazil, Cross-Dressing, Post-colonial, Religious Traditions ]
 featured: true
 image: "./assets/images/brazil-carnival.jpg"
 ---
+Is Brazil's Carnival trans-friendly?
+
 Image from [pexels.com](https://www.pexels.com/search/brazil/).
 
 For five full days, 50,000 samba musicians, 400,000 spectators and  200,00 people dressed in elaborate costumes fill the streets of Brazil. Some Brazilians refer to it as “The Greatest Show on Earth.”[^1]
 
-This _traditional, Western Christian, pre-lenten _celebration, “Carnival” brought by Brazil’s religious colonizers can also be attributed to the growth of Brazil’s lively cross-dressing culture, gradual normalization of the trans community, and overall, an elevation of life for marginalized communities.[^2]
+This _traditional, Western Christian, pre-lenten_ celebration, “Carnival” brought by Brazil’s religious colonizers can also be attributed to the growth of Brazil’s lively cross-dressing culture, gradual normalization of the trans community, and overall, an elevation of life for marginalized communities.[^2]
 
 The roots of these traditions go back thousands of years to when troupes in Angola designed elaborate costumes and competed amongst their neighborhoods.[^3] The holiday was initially a small religious gathering; however, by the 19th century, Brazilians were inspired by the elaborate balls of their previous colonizers. In 1928, one of the first sambas schools was organized in a Rio slum.[^4] 
 
