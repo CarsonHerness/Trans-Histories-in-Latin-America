@@ -12,6 +12,12 @@ permalink: /:title/
 
 # Authors
 authors:
+  becky:
+    name: Becky
+    display_name: Becky
+    gravatar:
+    email:
+    description:
   carson:
     name: Carson
     display_name: Carson
@@ -19,6 +25,18 @@ authors:
     email: cherness@g.hmc.edu
     description: "Computer Science major at Harvey Mudd College"
     web: https://github.com/CarsonHerness/
+  jordy:
+    name: Jordy
+    display_name: Jordy
+    gravatar:
+    email:
+    description:
+   vi:
+    name: Vi
+    display_name: Vi
+    gravatar:
+    email:
+    description:
 
 # Plugins
 plugins:
