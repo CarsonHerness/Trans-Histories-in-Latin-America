@@ -14,7 +14,7 @@ permalink: /:title/
 authors:
   carson:
     name: Carson
-    display_name: Carson
+    display_name: Carson Herness
     gravatar: ac560d1e105e432468a141c03f374007
     email: cherness@g.hmc.edu
     description: "Computer Science major at Harvey Mudd College"
@@ -27,12 +27,15 @@ authors:
     description: "Junior studying Government and History at Claremont McKenna College"
   becky:
     name: Becky
-    display_name: Becky
+    display_name: Becky Chung
+    descripton: "Senior at Claremont McKenna majoring in government and history"
+    gravatar: f5b58374a3e593abd06977640a980f99
+
   jordy:
     name: Jordy
     display_name: Jordy
     gravatar: 62a592d75b18fe3ef4f5553aa1c87cd5
-    description: "Jordy is a Junior at Pomona College. (she/her/hers)."
+    description: "Junior at Pomona College. (she/her/hers)."
     
 # Plugins
 plugins:
