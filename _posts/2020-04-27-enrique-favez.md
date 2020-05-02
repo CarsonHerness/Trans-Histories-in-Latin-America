@@ -2,7 +2,7 @@
 layout: post
 title:  "Erasure of Trans Men in Colonial Cuba: The Story of Enrique Favez"
 author: becky
-categories: [ colonial, trans men, Cuba ]
+categories: [ colonial, trans men, Cuba, region ]
 featured: true
 image: "./assets/images/becky-cuba.jpg"
 ---
