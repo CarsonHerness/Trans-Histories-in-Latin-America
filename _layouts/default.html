@@ -71,29 +71,53 @@ ga('send', 'pageview');
                 <a class="nav-link" href="{{ site.baseurl }}">Blog</a>
                 </li>
 
+                {% if page.url == "/about" %}
+                <li class="nav-item active">
+                {% else %}
                 <li class="nav-item">
+                {% endif %}                
                 <a class="nav-link" href="{{ site.baseurl }}/about">About</a>
                 </li>
 
+                {% if page.url == "/map" %}
+                <li class="nav-item active">
+                {% else %}
                 <li class="nav-item">
-                    <a class="nav-link" href="{{ site.baseurl }}/map">Map</a>
+                {% endif %}                    
+                <a class="nav-link" href="{{ site.baseurl }}/map">Map</a>
                 </li>
 
                 
+                {% if page.url == "/categories" %}
+                <li class="nav-item active">
+                {% else %}
                 <li class="nav-item">
-                    <a class="nav-link" href="{{ site.baseurl }}/categories">Categories</a>
+                {% endif %}              
+                <a class="nav-link" href="{{ site.baseurl }}/categories">Categories</a>
                 </li>
 
+                {% if page.url == "/trans-studies" %}
+                <li class="nav-item active">
+                {% else %}
                 <li class="nav-item">
-                    <a class="nav-link" href="{{ site.baseurl }}/trans-studies">Trans Studies</a>
+                {% endif %}                    
+                <a class="nav-link" href="{{ site.baseurl }}/trans-studies">Trans Studies</a>
                 </li>
 
+                {% if page.url == "/contemporary-issues" %}
+                <li class="nav-item active">
+                {% else %}
                 <li class="nav-item">
-                    <a class="nav-link" href="{{ site.baseurl }}/contemporary-issues">Contemporary Issues</a>
+                {% endif %}                    
+                <a class="nav-link" href="{{ site.baseurl }}/contemporary-issues">Contemporary Issues</a>
                 </li>
 
+                {% if page.url == "/regions" %}
+                <li class="nav-item active">
+                {% else %}
                 <li class="nav-item">
-                    <a class="nav-link" href="{{ site.baseurl }}/regions">Regional Topics</a>
+                {% endif %}                    
+                <a class="nav-link" href="{{ site.baseurl }}/regions">Regional Topics</a>
                 </li>
 
                 {% include search-lunr.html %}
