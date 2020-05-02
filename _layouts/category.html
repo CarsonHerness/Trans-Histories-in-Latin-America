@@ -2,6 +2,8 @@
 layout: default
 ---
 {{ page.name }}
+{{ assign category = site.categories[page.name] }}
+{{ category }}
 <div class="row listrecent">
     {% for category in site.categories %}
     <!-- {% if page.tag == category %} -->
