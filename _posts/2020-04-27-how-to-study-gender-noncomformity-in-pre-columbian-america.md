@@ -3,6 +3,7 @@ layout: post
 title:  "How to Study Gender-Nonconformity in Pre-Columbian America"
 author: jordy
 categories: [ gender-nonconformity, trans-national, trans studies, pre-colonial ]
+category: "trans studies"
 featured: true
 image: "./assets/images/jordy1.png"
 ---

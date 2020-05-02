@@ -4,6 +4,7 @@ title:  "The Unexpected Truth of Brazil's Progressive Carnival"
 author: vi
 categories: [ Brazil, Cross-Dressing, Post-colonial, Religious Traditions, region ]
 featured: true
+category: region
 image: "./assets/images/brazil-carnival.jpg"
 ---
 Is Brazil's Carnival trans-friendly?
