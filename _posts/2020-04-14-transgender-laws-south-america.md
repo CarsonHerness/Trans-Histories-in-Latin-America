@@ -3,6 +3,7 @@ layout: post
 title:  "Transgender Laws Across South America"
 author: carson
 categories: [ Latin America, law, contemporary ]
+category: contemporary
 featured: true
 image: "./assets/images/marcha_de_las_putas.jpg"
 ---

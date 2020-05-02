@@ -1,9 +1,17 @@
 ---
 layout: default
 ---
-{{ page.name }}
-{{ assign category = site.categories[page.name] }}
-{{ category }}
+{{ page.category_name }}
+
+{% assign filtered_posts = site.posts | where: 'category', page.category_name %}
+  {% for post in filtered_posts %}
+    {% if post.title != null %}
+        {% if group == null or group == post.group %}
+            {% include postbox.html %}
+        {% endif %}
+    {% endif %}
+{% endfor %}
+
 <div class="row listrecent">
     {% for category in site.categories %}
     <!-- {% if page.tag == category %} -->

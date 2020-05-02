@@ -2,5 +2,5 @@
 layout: category
 title: Trans Studies
 permalink: /trans-studies
-name: "trans studies"
+category_name: "trans studies"
 ---
