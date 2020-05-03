@@ -32,10 +32,9 @@ Author Bios
 <div>
 <ul>
   {% for author in site.authors %}
-  {% assign site_author site.authors[page.author] %}
     <li>
-      <h2>{{ site_author.display_name }}</h2>
-      <h3>{{ site_author.description }}</h3>
+      <h2>{{ author.display_name }}</h2>
+      <h3>{{ author.description }}</h3>
       <p>{{ author.content | markdownify }}</p>
     </li>
   {% endfor %}
