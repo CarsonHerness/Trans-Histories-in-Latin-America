@@ -5,9 +5,16 @@ permalink: /about
 comments: true
 ---
 
-[Mission Statement](#mission)
-
-[Authors](#authors)
+<div class="author-nav">
+    <ul>
+        <li>
+          <a href="#mission">Mission Statement</a>
+        </li>
+        <li>
+          <a href="#authors">Author Bios</a>
+        </li>
+    </ul>
+</div>
 
 <h2 id="mission">
 Mission Statement

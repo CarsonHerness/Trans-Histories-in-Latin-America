@@ -906,10 +906,12 @@ iframe {
     padding: 0;
     overflow: hidden;
     background-color: whitesmoke;
+    width: 100%;
 }
 
 .author-nav li {
     float: left;
+    width: 25%; /* Assumes 4 authors */
 }
 
 .author-nav li a {
