@@ -899,3 +899,26 @@ iframe {
     opacity: 0;
     transition: opacity .25s;
 }
+
+.author-nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: whitesmoke;
+}
+
+.author-nav li {
+    float: left;
+}
+
+.author-nav li a {
+    display: block;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+
+.author-nav li a:hover {
+    background-color: rgb(193, 199, 193);
+}
