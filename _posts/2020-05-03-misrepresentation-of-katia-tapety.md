@@ -12,6 +12,8 @@ At first glance, Brazil’s religious festival, Carnival, seems to be a display 
 
 Image from [pexel.com](https://www.pexels.com/) of a church in Piaui, Brazil.
 
+<hr>
+
 “A homosexual man has to die.” Kátia Tapety heard this phrase constantly during her childhood.[^1] Growing up in a small rural city, her parents kept her recluse and wanted her to maintain a hidden life on the farm.[^2] Kátia’s plans for herself were far different; she would grow up to become the first transvestite elected politician in Brazil. 
 
 In the 1970s, the democratization process for Brazilians allowed the “GLT” (Gay, Lesbian, Trans) movement to use elected positions and political parties to gain more representation on the political agenda.[^3] However, Brazil has a history of strong presidencies and weak political parties.[^4] **What are the prospects for marginalized groups within this system of weak parties?**

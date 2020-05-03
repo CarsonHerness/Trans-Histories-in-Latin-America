@@ -12,6 +12,8 @@ Enrique Favez, a doctor in Cuba, was the subject of one of the most scandalous t
 
 Photo by Alexander Kunze on [Unsplash](https://unsplash.com/photos/uLh71gTmZ4g).
 
+<hr>
+
 Exiled in New Orleans, Enrique Favez, who had legally just been declared a woman by colonial Cuban officials, wrote a love letter to his beloved former wife Juana across the sea. In a letter dated August 20, 1824, he told her, “Juana, I don’t know if we will be able to see each other again someday, but I am sure that if we did, I would be willing again to suffer at your side.”[^1] Despite having been imprisoned twice and subject to violent examination by doctors and juries, Favez continued to love and live as a man. 
 
 In an effort to reclaim the histories of women who made significant strides in science and the arts and have been overlooked in history, the lives and experiences of trans or gender-nonconforming individuals have been erased. The story of Enrique Favez and how his story has been told by some contemporary historians has illuminated the systemic and continued erasure of gender non-conforming individuals in the historical process. 

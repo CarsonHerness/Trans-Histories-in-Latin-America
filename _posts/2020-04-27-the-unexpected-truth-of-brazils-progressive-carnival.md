@@ -11,6 +11,8 @@ In the process of democratization in Brazil, Gay, Lesbian and Trans activists ca
 
 Image from [pexels.com](https://www.pexels.com/search/brazil/).
 
+<hr>
+
 For five full days, 50,000 samba musicians, 400,000 spectators and  200,00 people dressed in elaborate costumes fill the streets of Brazil. Some Brazilians refer to it as “The Greatest Show on Earth.”[^1]
 
 This _traditional, Western Christian, pre-lenten_ celebration, “Carnival” brought by Brazil’s religious colonizers can also be attributed to the growth of Brazil’s lively cross-dressing culture, gradual normalization of the trans community, and overall, an elevation of life for marginalized communities.[^2]

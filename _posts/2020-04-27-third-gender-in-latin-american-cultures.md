@@ -12,6 +12,8 @@ Indigenous communities in Oaxaca have histories of gender fluidity that date bac
 
 Photo by Roman Lopez on [Unsplash](https://unsplash.com/photos/92XOQbvqpdU).
 
+<hr>
+
 In the indigenous Zapotec community Juchitán within the southern Mexican state of Oaxaca, there exists a third gender - muxes, which refers to people who are biologically male but manifest feminie identities, without identifying as transgender or necessarily seeking to become women.[^1] 
 
 
