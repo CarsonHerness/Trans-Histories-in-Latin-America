@@ -25,14 +25,11 @@ Studying trans history is difficult due to changing vocabulary and different und
 </p>
 </div>
 
-<h2 id="authors">
-Author Bios
-</h2>
-{{ site.authors }}
+<h2 id="authors">Author Bios</h2>
 <div>
   {% for author in site.authors %}
     {{ author }}
-      <h2>{{ author.display_name }}</h2>
+      <h2>{{ author[display_name] }}</h2>
       <p>{{ author.bio }}</p>
       <a href="{{ site.baseurl }}/{{ author.name }}">Read posts by {{ author.name }}</a>
   {% endfor %}
