@@ -12,7 +12,7 @@ layout: default
     <div class="section-title col-md-12 mt-4">
         <h2>Posts</h2>
     </div>
-    {% assign filtered_posts = site.posts | where: 'author', author %}
+    {% assign filtered_posts = site.posts | where: 'author', page.author %}
     {% for post in filtered_posts %}
       {% if post.title != null %}
           {% if group == null or group == post.group %}

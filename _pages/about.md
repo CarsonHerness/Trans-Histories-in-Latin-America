@@ -26,7 +26,7 @@ Studying trans history is difficult due to changing vocabulary and different und
 </div>
 
 <h2 id="authors">Author Bios</h2>
-<div style="padding-bottom: 20px">
+<div class="authorpage">
   {% assign author_list = site.authors %}
   {% for author in author_list %}
     {% assign author_data  = author[1] %}
