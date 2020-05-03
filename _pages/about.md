@@ -30,13 +30,8 @@ Author Bios
 </h2>
 
 <div>
-<ul>
   {% for author in site.authors %}
-    <li>
       <h2>{{ author.display_name }}</h2>
       <h3>{{ author.description }}</h3>
-      <p>{{ author.content | markdownify }}</p>
-    </li>
   {% endfor %}
-</ul>
 </div>

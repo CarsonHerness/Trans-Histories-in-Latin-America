@@ -19,23 +19,27 @@ authors:
     email: cherness@g.hmc.edu
     description: "Computer Science major at Harvey Mudd College"
     web: https://github.com/CarsonHerness/
+    bio: "Carson is a junior computer science major at Harvey Mudd College. In Fall 2019 he studied abroad in Quito, Ecuador and worked with Proyecto Transgenero, a local organization working with transgender people."
   vi:
     name: Vi
     display_name: Vi Nguyen
     gravatar: eab12af4d916249cad26af4ff67907af
     email: vnguyen21@cmc.edu
     description: "Junior studying Government and History at Claremont McKenna College"
+    bio: "Vi is a Junior studying Government and History at Claremont McKenna College. She is currently taking a course on Gender and Sexuality in Latin America which sparked her interest in creating a blog about the trans experience in Latin America. Vi enjoys using her majors to analyze civil rights movements and their impacts on political institutions."
   becky:
     name: Becky
     display_name: Becky Chung
     descripton: "Senior at Claremont McKenna majoring in government and history"
     gravatar: f5b58374a3e593abd06977640a980f99
+    bio: "Becky is a senior at Claremont McKenna College currently writing her thesis."
 
   jordy:
     name: Jordy
     display_name: Jordy
     gravatar: 62a592d75b18fe3ef4f5553aa1c87cd5
-    description: "Junior at Pomona College. (she/her/hers)."
+    description: "Junior at Pomona College. (she/her/hers)"
+    bio: "Jordy is a junior at Pomona College."
     
 # Plugins
 plugins:
