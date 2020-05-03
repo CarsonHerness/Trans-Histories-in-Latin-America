@@ -10,32 +10,6 @@ disqus: 'demowebsite'
 include: ["_pages"]
 permalink: /:title/
 
-# Authors
-authors:
-  becky:
-    name: Becky
-    display_name: Becky Chung
-    description: "Senior at Claremont McKenna majoring in government and history"
-    gravatar: f5b58374a3e593abd06977640a980f99
-  carson:
-    name: Carson
-    display_name: Carson Herness
-    gravatar: ac560d1e105e432468a141c03f374007
-    email: cherness@g.hmc.edu
-    description: "Computer Science major at Harvey Mudd College"
-    web: https://github.com/CarsonHerness/
-  jordy:
-    name: Jordy
-    display_name: Jordy
-    gravatar: 62a592d75b18fe3ef4f5553aa1c87cd5
-    description: "Junior at Pomona College. (she/her/hers)"
-  vi:
-    name: Vi
-    display_name: Vi Nguyen
-    gravatar: eab12af4d916249cad26af4ff67907af
-    email: vnguyen21@cmc.edu
-    description: "Junior studying Government and History at Claremont McKenna College"
-    
 # Plugins
 plugins:
   - jekyll-paginate
