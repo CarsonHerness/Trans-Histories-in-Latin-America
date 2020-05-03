@@ -7,7 +7,7 @@ featured: true
 category: region
 image: "./assets/images/brazil-carnival.jpg"
 ---
-Is Brazil's Carnival trans-friendly?
+In the process of democratization in Brazil, Gay, Lesbian and Trans activists came together and sought representation in the political agenda. Political scholars are quick to minimize the work of right wing GLT politicians who rarely introduced trans specific legislation or programs. Through the story of Katia Tapety, the first elected transvestite in Brazil, we can better understand Tapety’s critical role in the GLT movement that many scholars have overlooked. 
 
 Image from [pexels.com](https://www.pexels.com/search/brazil/).
 

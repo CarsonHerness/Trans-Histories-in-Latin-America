@@ -5,8 +5,12 @@ author: vi
 categories: [ erasure, politics, politician, Brazil ]
 featured: false
 category: region
-image: "./assets/images/becky-third-gender.jpg"
+image: "./assets/images/brazil-church.jpg"
 ---
+
+At first glance, Brazil’s religious festival, Carnival, seems to be a display of the country’s sexual liberation and acceptance of cross-dressing. However, an in depth analysis  of the festival underscores the country’s culture of contradiction in which sexual liberation exacerbates machismo culture. 
+
+Image from [pexel.com](https://www.pexels.com/) of a church in Piaui, Brazil.
 
 “A homosexual man has to die.” Kátia Tapety heard this phrase constantly during her childhood.[^1] Growing up in a small rural city, her parents kept her recluse and wanted her to maintain a hidden life on the farm.[^2] Kátia’s plans for herself were far different; she would grow up to become the first transvestite elected politician in Brazil. 
 
