@@ -5,16 +5,7 @@ permalink: /about
 comments: true
 ---
 
-<div class="author-nav">
-    <ul>
-        <li>
-          <a href="#mission">Mission Statement</a>
-        </li>
-        <li>
-          <a href="#authors">Author Bios</a>
-        </li>
-    </ul>
-</div>
+[Jump to author biographies](#authors)
 
 <h2 id="mission">
 Mission Statement
@@ -32,7 +23,7 @@ Studying trans history is difficult due to changing vocabulary and different und
 </p>
 </div>
 
-<h2 id="authors">Author Bios</h2>
+<h2 id="authors">Author Biographies</h2>
   {% assign author_list = site.data.authors %}
   <div class="author-nav">
     <ul>
@@ -50,6 +41,24 @@ Studying trans history is difficult due to changing vocabulary and different und
     {% assign author_data  = author[1] %}
     {% assign bio = author_data.bio %}
       <h2>{{ author_data.display_name }}</h2>
+        <div class="row post-top-meta">
+        <div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0">
+            {% if author_data.avatar %}
+            <img class="author-thumb" src="{{site.baseurl}}/{{ author_data.avatar }}"
+                alt="{{ author_data.display_name }}">
+            {% else %}
+            <img class="author-thumb"
+                src="https://www.gravatar.com/avatar/{{ author_data.gravatar }}?s=250&d=mm&r=x"
+                alt="{{ author_data.display_name }}">
+            {% endif %}
+        </div>
+        <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
+            {% if author_data.follow %}
+                <a target="_blank" href="{{ author_data.follow }}" class="btn follow">Follow</a>
+            {% endif %}
+            <span class="author-description">{{ author_data.description }}</span>
+        </div>
+    </div>
       <p>{{ bio | markdownify }}</p>
       <a href="{{ site.baseurl }}/{{ author[0] }}">Read posts by {{ author_data.name }}</a>
       <p></p>
