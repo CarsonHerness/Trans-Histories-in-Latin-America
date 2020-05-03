@@ -28,7 +28,7 @@ Studying trans history is difficult due to changing vocabulary and different und
 <h2 id="authors">
 Author Bios
 </h2>
-
+{{ site.authors }}
 <div>
   {% for author in site.authors %}
     {{ assign current = site.authors[author] }}
