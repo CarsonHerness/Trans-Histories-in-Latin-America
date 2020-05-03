@@ -7,9 +7,7 @@ comments: true
 
 [Jump to Author Biographies](#authors)
 
-<h2 id="mission">
-Mission Statement
-</h2>
+<h2 id="mission">Mission Statement</h2>
 
 <div>
 <p>
