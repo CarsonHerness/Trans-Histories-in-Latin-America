@@ -1,17 +1,18 @@
 ---
 layout: default
 ---
-{% assign author = page.author %}
+{% assign author = site.authors[page.author] %}
 
 <div>
-    <p>{{ author.display_name }}</p>
+    <h2>{{ author.display_name }}</h2>
+    <p> {{ author.bio }}</p>
 </div>
 
 <div class="row listrecent">
     <div class="section-title col-md-12 mt-4">
-        <h2 id="{{ category[0] | replace: " ","-" }}"><span class="text-capitalize">{{ page.author }}</span></h2>
+        <h2 id="{{ category[0] | replace: " ","-" }}"><span class="text-capitalize">{{ author.display_name }}</span></h2>
     </div>
-    {% assign filtered_posts = site.posts | where: 'author', page.author %}
+    {% assign filtered_posts = site.posts | where: 'author', author %}
     {% for post in filtered_posts %}
       {% if post.title != null %}
           {% if group == null or group == post.group %}
