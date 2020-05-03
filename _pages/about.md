@@ -30,6 +30,7 @@ Author Bios
 </h2>
 {{ site.authors }}
 <div>
+  {% for author in site.authors %}
     {{ author.display_name }}
       <h2>{{ author.display_name }}</h2>
       <p>{{ author.bio }}</p>
