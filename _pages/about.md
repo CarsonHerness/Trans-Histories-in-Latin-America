@@ -9,9 +9,9 @@ comments: true
 
 [Authors](#authors)
 
-<div id="mission">
-
-## Mission Statement
+<h2 id="mission">
+Mission Statement
+</h2>
 
 <div>
 <p>
@@ -25,18 +25,19 @@ Studying trans history is difficult due to changing vocabulary and different und
 </p>
 </div>
 
-<div id="authors">
+<h2 id="authors">
+Author Bios
+</h2>
 
-## Author Bios
-
-</div>
-
+<div>
 <ul>
   {% for author in site.authors %}
+  {% assign site_author site.authors[page.author] %}
     <li>
-      <h2>{{ author.name }}</h2>
-      <h3>{{ author.description }}</h3>
+      <h2>{{ site_author.display_name }}</h2>
+      <h3>{{ site_author.description }}</h3>
       <p>{{ author.content | markdownify }}</p>
     </li>
   {% endfor %}
 </ul>
+</div>
