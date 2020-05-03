@@ -27,11 +27,12 @@ Studying trans history is difficult due to changing vocabulary and different und
 
 <h2 id="authors">Author Bios</h2>
 <div class="authorpage">
-  {% assign author_list = site.authors %}
+  {% assign author_list = site.data.authors %}
   {% for author in author_list %}
     {% assign author_data  = author[1] %}
+    {% assign bio = author_data.bio %}
       <h2>{{ author_data.display_name }}</h2>
-      <p>{{ author_data.bio }}</p>
-      <a href="{{ site.baseurl }}/{{ author_data.name }}">Read posts by {{ author_data.name }}</a>
+      <p>{{ bio | markdownify }}</p>
+      <a href="{{ site.baseurl }}/{{ author[0] }}">Read posts by {{ author_data.name }}</a>
   {% endfor %}
 </div>

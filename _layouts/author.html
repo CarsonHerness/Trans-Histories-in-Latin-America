@@ -1,11 +1,11 @@
 ---
 layout: default
 ---
-{% assign author = site.authors[page.author] %}
+{% assign author = site.data.authors[page.author] %}
 
 <div>
     <h2>{{ author.display_name }}</h2>
-    <p> {{ author.bio }}</p>
+    <p> {{ author.bio | markdownify }}</p>
 </div>
 
 <div class="row listrecent">
