@@ -5,7 +5,7 @@ permalink: /about
 comments: true
 ---
 
-[Jump to author biographies](#authors)
+[Jump to Author Biographies](#authors)
 
 <h2 id="mission">
 Mission Statement
