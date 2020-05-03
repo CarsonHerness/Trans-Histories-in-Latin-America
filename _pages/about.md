@@ -30,12 +30,9 @@ Author Bios
 </h2>
 {{ site.authors }}
 <div>
-  {% for author in site.authors %}
-  {{ author }}
-    {% assign current = site.authors[author] %}
     {{ author.display_name }}
-      <h2>{{ current.display_name }}</h2>
-      <p>{{ current.bio }}</p>
+      <h2>{{ author.display_name }}</h2>
+      <p>{{ author.bio }}</p>
       <a href="{{ site.baseurl }}/{{ author.name }}">Read posts by {{ author.name }}</a>
   {% endfor %}
 </div>
