@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Region
+title: Regional Topics
 permalink: /regions
 category_name: "region"
 ---
