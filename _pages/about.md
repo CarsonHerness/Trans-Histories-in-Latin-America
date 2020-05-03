@@ -31,7 +31,7 @@ Author Bios
 {{ site.authors }}
 <div>
   {% for author in site.authors %}
-    {{ author.display_name }}
+    {{ author }}
       <h2>{{ author.display_name }}</h2>
       <p>{{ author.bio }}</p>
       <a href="{{ site.baseurl }}/{{ author.name }}">Read posts by {{ author.name }}</a>
