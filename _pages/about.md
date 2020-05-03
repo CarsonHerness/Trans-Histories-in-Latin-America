@@ -43,6 +43,7 @@ Studying trans history is difficult due to changing vocabulary and different und
       <h2>{{ author_data.display_name }}</h2>
       <p>{{ bio | markdownify }}</p>
       <a href="{{ site.baseurl }}/{{ author[0] }}">Read posts by {{ author_data.name }}</a>
+      <p></p>
     </div>
   {% endfor %}
 </div>
