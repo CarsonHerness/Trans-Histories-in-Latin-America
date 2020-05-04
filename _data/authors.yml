@@ -2,6 +2,7 @@
     name: Becky
     display_name: Becky Chung
     description: "Senior at Claremont McKenna majoring in government and history"
+    avatar: 'assets/images/becky.png'
     gravatar: f5b58374a3e593abd06977640a980f99
     bio: |
       I am a senior at Claremont McKenna College studying government and history. I was interested in the class Gender and Sexuality in Latin America because I am conducting my senior thesis on the history of lesbian activism during the AIDS epidemic. I am interested in better understanding the perspectives of gender and sexuality and I had never taken a history class on Latin America.
@@ -11,6 +12,7 @@
   carson:
     name: Carson
     display_name: Carson Herness
+    avatar: 'assets/images/carson.png'
     gravatar: ac560d1e105e432468a141c03f374007
     email: cherness@g.hmc.edu
     description: "Computer Science major at Harvey Mudd College"
@@ -19,12 +21,14 @@
   jordy:
     name: Jordy
     display_name: Jordy Gertner
+    avatar: 'assets/images/jordy.png'
     gravatar: 62a592d75b18fe3ef4f5553aa1c87cd5
     description: "Junior at Pomona College. (she/her/hers)"
     bio: "Jordy is a junior at Pomona College."
   vi:
     name: Vi
     display_name: Vi Nguyen
+    avatar: 'assets/images/vi.png'
     gravatar: eab12af4d916249cad26af4ff67907af
     email: vnguyen21@cmc.edu
     description: "Junior studying Government and History at Claremont McKenna College"
