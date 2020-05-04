@@ -38,7 +38,7 @@ Studying trans history is difficult due to changing vocabulary and different und
     <div id="{{ author[0] }}">
     {% assign author_data  = author[1] %}
     {% assign bio = author_data.bio %}
-      <h2>{{ author_data.display_name }}</h2>
+      <h2><a href="{{ site.baseurl }}/{{ author[0] }}">{{ author_data.display_name }}</a></h2>
         <div class="row post-top-meta">
         <div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0">
             {% if author_data.avatar %}
@@ -51,14 +51,11 @@ Studying trans history is difficult due to changing vocabulary and different und
             {% endif %}
         </div>
         <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
-            {% if author_data.follow %}
-                <a target="_blank" href="{{ author_data.follow }}" class="btn follow">Follow</a>
-            {% endif %}
             <span class="author-description">{{ author_data.description }}</span>
         </div>
     </div>
       <p>{{ bio | markdownify }}</p>
-      <a href="{{ site.baseurl }}/{{ author[0] }}">Read posts by {{ author_data.name }}</a>
+      <a href="{{ site.baseurl }}/{{ author[0] }}#posts">Read posts by {{ author_data.name }}</a>
       <p></p>
     </div>
   {% endfor %}
