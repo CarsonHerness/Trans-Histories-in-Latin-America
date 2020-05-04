@@ -19,17 +19,16 @@ In the indigenous Zapotec community Juchitán within the southern Mexican state 
 
 ## The Third Gender in History
 
-Historically, third gender identities have played an important role in societies in Mexico since long before the Spanish colonized the region.[^2] In _Decolonizing the Sodomite: Queer Tropes of Sexuality in Colonial Andean Culture, _historian Pete Sigal uses the term third gender not to romanticize its existence in colonial societies as an attempt to break binaries but rather to show how Andeans negotiated gender difference. In uncovering the history of the third gender in colonial Andean culture, he takes care to contextualize the identity within the specific cultures in which they emerged. 
+Historically, third gender identities have played an important role in societies in Mexico since long before the Spanish colonized the region.[^2] In _Decolonizing the Sodomite: Queer Tropes of Sexuality in Colonial Andean Culture_, historian Pete Sigal uses the term third gender not to romanticize its existence in colonial societies as an attempt to break binaries but rather to show how Andeans negotiated gender difference. In uncovering the history of the third gender in colonial Andean culture, he takes care to contextualize the identity within the specific cultures in which they emerged. 
 
 Indeed, the tendency to over-romanticize third gender identities in Latin America as a direct predecessor of modern trans identity overlooks the landscapes third gendered people negotiated in the colonial past and continue to negotiate. Third gendered indigenous Andeans, for example, likely understood themselves to be on a “a gender continuum in temporal performances of gender that are not fixed in time and space” rather than as trans.[^3] Despite the complexities of third gender identities, there has been a tendency to force such identities and people into discrete categories that can be easily digested by an American audience.  
 
 
 ## Popular Media Representations
 
-In popular media, muxes are often referred to or celebrated as transgender women despite not identifying as transgender women themselves. In 2007, the magazine _Marie Claire _published an article entitled, “Meet Vidal Guerra and His Mother, Antonia. She’s Turning Him into a Girl.”[^4] NBC News defined muxes as “indigenous transgender women who easily mix gay male and feminine identities,” following a number of media outlets that praised Vogue for finally celebrating “a culture of indigenous transgender women that has been a part of southern Mexico’s heritage for centuries.”[^5] Vogue was widely praised for its spotlight of muxes in late 2019.
+In popular media, muxes are often referred to or celebrated as transgender women despite not identifying as transgender women themselves. In 2007, the magazine _Marie Claire_ published an article entitled, “Meet Vidal Guerra and His Mother, Antonia. She’s Turning Him into a Girl.”[^4] NBC News defined muxes as “indigenous transgender women who easily mix gay male and feminine identities,” following a number of media outlets that praised Vogue for finally celebrating “a culture of indigenous transgender women that has been a part of southern Mexico’s heritage for centuries.”[^5] Vogue was widely praised for its spotlight of muxes in late 2019.
 
- Contemporary understandings of the third gender in Latin American cultures have thus been largely limited and one-dimensional by the labeling of the third gender as a trans identity. As Alfredo Mirandé, who conducted many interviews in Juchitán, illustrates in _Behind the Mask: Gender Hybridity in a Zapotec Community, _there is a diversity of ways to identify as muxe and that being muxe was clearly separate from sexuality.[^6] The muxes he interviewed alternated between masculine and feminine pronouns. Some were married to women with children while others partnered only with men. 
-
+Contemporary understandings of the third gender in Latin American cultures have thus been largely limited and one-dimensional by the labeling of the third gender as a trans identity. As Alfredo Mirandé, who conducted many interviews in Juchitán, illustrates in _Behind the Mask: Gender Hybridity in a Zapotec Community_, there is a diversity of ways to identify as muxe and that being muxe was clearly separate from sexuality.[^6] The muxes he interviewed alternated between masculine and feminine pronouns. Some were married to women with children while others partnered only with men. 
 
 ## Being Muxe
 
@@ -42,22 +41,22 @@ The importance of indigenous tradition and culture in muxe identity points to th
 ## Notes
 
 [^1]:
-     Maritza E. Cárdenas, _Constituting Central American-Americans: Transnational Identities and the Politics of Dislocation _(New Brunswick: Rutgers University Press, 2018),_ _100. 
+     Maritza E. Cárdenas, _Constituting Central American-Americans: Transnational Identities and the Politics of Dislocation_ (New Brunswick: Rutgers University Press, 2018), _100. 
 
 [^2]:
-     Lynn Stephen, “Sexualities and Genders in Zapotec Oaxaca,” _Latin American Perspectives _29, no. 2 (2002): 43. 
+     Lynn Stephen, “Sexualities and Genders in Zapotec Oaxaca,” _Latin American Perspectives_ 29, no. 2 (2002): 43. 
 
 [^3]:
-     Pete Sigal, _Decolonizing the Sodomite: Queer Tropes of Sexuality in Colonial Andean Culture _(Austin: University of Texas, 2006), 23.  
+     Pete Sigal, _Decolonizing the Sodomite: Queer Tropes of Sexuality in Colonial Andean Culture_ (Austin: University of Texas, 2006), 23.  
 
 [^4]:
-     Kimberley Sevcik, “Meet Vidal Guerra and His Mother, Antonia. She’s Turning Him into a Girl,” _Marie Claire, _February 2007. 
+     Kimberley Sevcik, “Meet Vidal Guerra and His Mother, Antonia. She’s Turning Him into a Girl,” _Marie Claire_,February 2007. 
 
 [^5]:
-     NBC News, “Vogue cover spotlights Mexico’s indigenous transgender women,” _NBC News, _November 21, 2019, https://www.nbcnews.com/feature/nbc-out/vogue-cover-spotlights-mexico-s-indigenous-transgender-women-n1088451.
+     NBC News, “Vogue cover spotlights Mexico’s indigenous transgender women,” _NBC News_, November 21, 2019, https://www.nbcnews.com/feature/nbc-out/vogue-cover-spotlights-mexico-s-indigenous-transgender-women-n1088451.
 
 [^6]:
-     Alfrendo Mirandé, _Behind the Mask: Gender Hybridity in a Zapotec Community _(Tucson: University of Arizona Press, 2017), 61. 
+     Alfrendo Mirandé, _Behind the Mask: Gender Hybridity in a Zapotec Community_ (Tucson: University of Arizona Press, 2017), 61. 
 
 [^7]:
-     Cárdenas, _Constituting Central American-Americans: Transnational Identities and the Politics of Dislocation,_ 102. 
+     Cárdenas, _Constituting Central American-Americans: Transnational Identities and the Politics of Dislocation_, 102. 
