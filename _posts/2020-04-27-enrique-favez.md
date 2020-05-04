@@ -2,7 +2,7 @@
 layout: post
 title:  "Erasure of Trans Men in Colonial Cuba: The Story of Enrique Favez"
 author: becky
-categories: [ colonial, trans men, Cuba, region ]
+categories: [ colonial, trans men, Cuba, erasure ]
 category: region
 featured: false
 image: "./assets/images/becky-cuba.jpg"
@@ -21,7 +21,7 @@ In an effort to reclaim the histories of women who made significant strides in s
 
 ## Attempts to Reclaim “Enriqueta” Favez as a Feminist Pioneer
 
-At first glance, the story of an individual called Enriqueta Favez by historians and artists is a powerful one as the story of Cuba’s first female doctor. In _Por andar vestida de hombre, _Julio César González-Pagés writes that a woman named Enriqueta Favez, born Henrietta in Switzerland, arrived in Cuba in 1818 to practice medicine. According to González-Pagés, Favez assumed a masculine identity in Paris and maintained it for his career, though it should be noted González-Pagés uses exclusively female pronouns to describe Favez. Favez married a woman named Juana de León, who later testified against him in a trial in which his housekeeper found him asleep and naked with the body of “a perfect and whole woman.”[^2] In the trial, Juana demanded Favez be publicly recognized as a woman and appropriately punished. He was found guilty and exiled after a failed suicide attempt. 
+At first glance, the story of an individual called Enriqueta Favez by historians and artists is a powerful one as the story of Cuba’s first female doctor. In _Por andar vestida de hombre_, Julio César González-Pagés writes that a woman named Enriqueta Favez, born Henrietta in Switzerland, arrived in Cuba in 1818 to practice medicine. According to González-Pagés, Favez assumed a masculine identity in Paris and maintained it for his career, though it should be noted González-Pagés uses exclusively female pronouns to describe Favez. Favez married a woman named Juana de León, who later testified against him in a trial in which his housekeeper found him asleep and naked with the body of “a perfect and whole woman.”[^2] In the trial, Juana demanded Favez be publicly recognized as a woman and appropriately punished. He was found guilty and exiled after a failed suicide attempt. 
 
 Contemporary scholarship and representatives of Enrique Favez fail to recognize him as a man. Attempting to reclaim him as a woman reproduces the violence done to Favez, subjecting his body and lived identity to continued interrogation. While working with the National Revolutionary Police of Cuba, González-Pagés produced overly feminized portraits of Favez that erased prominent scars and masculine features that others noticed about him in the trial and other observations.[^3] These portraits, which are included in his book, serve to confirm for the reader that Enrique Favez must have been and identified as a woman. Such portraits represent “another unwarranted examination by (academic and law enforcement) and results, once again, in his feminization,” as Juliana Martinez notes in “Dressed Like a Man? Of Language, Bodies, and Monsters in the Trial of Enrique/Enriqueta Favez and Its Contemporary Accounts.”[^4]
 
@@ -34,8 +34,7 @@ The life of Enrique Favez, however, is much more complicated. His uncle remember
 
 In “Dressed Like a Man? Of Language, Bodies, and Monsters in the Trial of Enrique/Enriqueta Favez and Its Contemporary Accounts,” Juliana Martínez resists González-Pagés’s narrative and uses masculine pronouns to tell his story. She notes that in the trial, Favez adamantly pushed back against the accusations that he was a monster and a woman. He demanded justice after the trial ended to return to his life as a doctor and as Enrique. On the official trial document declaring Favez a woman, he signed with “Enrique.”[^10] In his love letters to Juana dated twenty-two years apart, he again signed with “Enrique.” He loved Juana as Enrique, not Enriqueta. 
 
-In _Sins Against Nature: Sex and Archives in Colonial New Spain, _scholar Zeb Tortorici writes, “In colonial New Spain, just as today, the trappings of gender led to conflicted readings of bodies and to misinscriptions of those bodies in the archive.”[^11] He illustrates the repeated violence - done by colonial officials and again by historians who bring their own ingrained judgments about gender - that can occur to those transgressed rules and expectations around gender in colonial New Spain. Though imposing trans-ness on Favez, who had no concept of contemporary trans identity, can be problematic, the evidence indicates that he lived as a man and understood his identity as a man. Declaring Favez to be a woman, based on his biological sex and the medical examinations of colonial officials who stripped him down, however, contributes to the continued and violent erasure of trans and gender non-conforming people in history. 
-
+In _Sins Against Nature: Sex and Archives in Colonial New Spain_, scholar Zeb Tortorici writes, “In colonial New Spain, just as today, the trappings of gender led to conflicted readings of bodies and to misinscriptions of those bodies in the archive.”[^11] He illustrates the repeated violence - done by colonial officials and again by historians who bring their own ingrained judgments about gender - that can occur to those transgressed rules and expectations around gender in colonial New Spain. Though imposing trans-ness on Favez, who had no concept of contemporary trans identity, can be problematic, the evidence indicates that he lived as a man and understood his identity as a man. Declaring Favez to be a woman, based on his biological sex and the medical examinations of colonial officials who stripped him down, however, contributes to the continued and violent erasure of trans and gender non-conforming people in history. 
 
 <!-- Footnotes themselves at the bottom. -->
 ## Notes
@@ -56,13 +55,13 @@ In _Sins Against Nature: Sex and Archives in Colonial New Spain, _scholar Zeb To
      Dalia Acosta, “Cuban Woman Who Lived As a Man,” _Havana Times_, August 5, 2009, https://havanatimes.org/features/cuban-woman-who-lived-as-a-man/.
 
 [^6]:
-     Danae C. Diéguez, “For Dressing Like a Man: A New Book on Transsexuality,” _CubaSí, _January 18, 2006, http://www.walterlippmann.com/docs364.html.
+     Danae C. Diéguez, “For Dressing Like a Man: A New Book on Transsexuality,” _CubaSí_, January 18, 2006, http://www.walterlippmann.com/docs364.html.
 
 [^7]:
-     Isobel Leybold-Johnson, “The Amazing Double Life of Enriqueta Favez,” _Swiss Info, _December 17, 2007, https://www.swissinfo.ch/eng/the-amazing-double-life-of-enriqueta-favez/6206770.
+     Isobel Leybold-Johnson, “The Amazing Double Life of Enriqueta Favez,” _Swiss Info_, December 17, 2007, https://www.swissinfo.ch/eng/the-amazing-double-life-of-enriqueta-favez/6206770.
 
 [^8]:
-     Alberto Enrique D’Ottavio Cattani, “Favez or the Secret of Henriette Faver Caven.” _Journal of Medicine and Movies _no 4 (2008): 148.  
+     Alberto Enrique D’Ottavio Cattani, “Favez or the Secret of Henriette Faver Caven.” _Journal of Medicine and Movies_ no 4 (2008): 148.  
 
 [^9]:
      Martinez, “Dressed Like a Man?” 192. 
@@ -71,4 +70,4 @@ In _Sins Against Nature: Sex and Archives in Colonial New Spain, _scholar Zeb To
      Martinez, “Dressed Like a Man?”, 197. 
 
 [^11]:
-     Zeb Tortorici, “Archiving the Sins of Sodomy: Bodies and Gestures” In _Sins Against Nature: Sex and Archives in Colonial New Spain _(Durham: Duke University Press, 2018), 116. 
+     Zeb Tortorici, “Archiving the Sins of Sodomy: Bodies and Gestures” In _Sins Against Nature: Sex and Archives in Colonial New Spain_ (Durham: Duke University Press, 2018), 116. 

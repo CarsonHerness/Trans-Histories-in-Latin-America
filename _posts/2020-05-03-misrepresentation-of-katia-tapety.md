@@ -2,7 +2,7 @@
 layout: post
 title:  "The Historical Misinterpretation of  Kátia Tapety"
 author: vi
-categories: [ erasure, politics, politician, Brazil ]
+categories: [ erasure, politics, trans politician, Brazil ]
 featured: false
 category: region
 image: "./assets/images/brazil-church.jpg"

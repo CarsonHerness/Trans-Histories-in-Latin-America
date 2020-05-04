@@ -2,7 +2,7 @@
 layout: post
 title:  "Trans Health Care"
 author: carson
-categories: [ health care, Latin America, contemporary ]
+categories: [ health care, Latin America ]
 category: contemporary
 image: assets/images/health-care.jpg
 ---

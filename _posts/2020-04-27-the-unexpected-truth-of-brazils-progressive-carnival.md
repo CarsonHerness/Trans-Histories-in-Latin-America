@@ -2,7 +2,7 @@
 layout: post
 title:  "The Unexpected Truth of Brazil's Progressive Carnival"
 author: vi
-categories: [ Brazil, Cross-Dressing, Post-colonial, Religious Traditions, region ]
+categories: [ Brazil, Cross-Dressing, Post-colonial, religion ]
 featured: true
 category: region
 image: "./assets/images/brazil-carnival.jpg"
