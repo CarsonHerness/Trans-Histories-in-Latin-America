@@ -924,3 +924,27 @@ iframe {
 .author-nav li a:hover {
     background-color: rgb(193, 199, 193);
 }
+
+.navbar-custom {
+    background-color: rgb(255, 224, 230);
+}
+/* change the brand and text color */
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text {
+    color: rgba(255,255,255,.8);
+}
+
+/* change the link color  */
+.navbar-custom .navbar-nav .nav-link {
+    color: rgb(94, 94, 94);
+}
+
+/* change the color and background color of links */
+.navbar-custom .nav-item:hover .nav-link {
+    border-radius: 10px;
+}
+
+/* change the color and background color of active links */
+.navbar-custom .nav-item:hover .nav-link {
+    background-color: rgb(91 206 250);
+}
