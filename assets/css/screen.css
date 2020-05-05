@@ -946,5 +946,5 @@ iframe {
 
 /* change the color and background color of active links */
 .navbar-custom .nav-item:hover .nav-link {
-    background-color: rgb(91 206 250);
+    background-color: rgb(145, 219, 248);
 }
