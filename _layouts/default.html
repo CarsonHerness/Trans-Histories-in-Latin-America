@@ -78,14 +78,6 @@ ga('send', 'pageview');
                 {% endif %}                
                 <a class="nav-link" href="{{ site.baseurl }}/about">About</a>
                 </li>
-                
-                {% if page.url == "/categories" %}
-                <li class="nav-item active">
-                {% else %}
-                <li class="nav-item">
-                {% endif %}              
-                <a class="nav-link" href="{{ site.baseurl }}/categories">Categories</a>
-                </li>
 
                 {% if page.url == "/trans-studies" %}
                 <li class="nav-item active">
@@ -109,6 +101,14 @@ ga('send', 'pageview');
                 <li class="nav-item">
                 {% endif %}                    
                 <a class="nav-link" href="{{ site.baseurl }}/regions">Regional Topics</a>
+                </li>
+
+                {% if page.url == "/categories" %}
+                <li class="nav-item active">
+                {% else %}
+                <li class="nav-item">
+                {% endif %}              
+                <a class="nav-link" href="{{ site.baseurl }}/categories">Categories</a>
                 </li>
 
                 {% include search-lunr.html %}
