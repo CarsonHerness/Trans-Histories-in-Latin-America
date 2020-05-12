@@ -3,7 +3,7 @@ layout: post
 title:  "The Unexpected Truth of Brazil's Progressive Carnival"
 author: vi
 categories: [ Brazil, Cross-Dressing, Post-colonial, religion ]
-featured: true
+featured: false
 category: region
 image: "./assets/images/brazil-carnival.jpg"
 ---
@@ -13,9 +13,9 @@ Image from [pexels.com](https://www.pexels.com/search/brazil/).
 
 <hr>
 
-For five full days, 50,000 samba musicians, 400,000 spectators and  200,00 people dressed in elaborate costumes fill the streets of Brazil. Some Brazilians refer to it as “The Greatest Show on Earth.”[^1]
+Carnival: An event meant to celebrate non-heteronormativity but holds concealed transgressions developed from a strong machismo culture. For five full days, 50,000 samba musicians, 400,000 spectators and 200,00 people dressed in elaborate costumes fill the streets of Brazil. Some Brazilians refer to it as “The Greatest Show on Earth.”[^1].
 
-This _traditional, Western Christian, pre-lenten_ celebration, “Carnival” brought by Brazil’s religious colonizers can also be attributed to the growth of Brazil’s lively cross-dressing culture, gradual normalization of the trans community, and overall, an elevation of life for marginalized communities.[^2]
+This _traditional, Western Christian, pre-lenten_ celebration, “Carnival” brought by the religious colonizers can also be attributed to the growth of Brazil’s lively cross-dressing culture, gradual normalization of the trans community, and overall, an elevation of life for marginalized communities.[^2]
 
 The roots of these traditions go back thousands of years to when troupes in Angola designed elaborate costumes and competed amongst their neighborhoods.[^3] The holiday was initially a small religious gathering; however, by the 19th century, Brazilians were inspired by the elaborate balls of their previous colonizers. In 1928, one of the first sambas schools was organized in a Rio slum.[^4] 
 
@@ -58,7 +58,7 @@ I believe the nature masculine qualities attached to cross dressing during this 
       Branford, Sue, and Bernardo Kucinski. 1995. _Brazil, Carnival of the Oppressed : Lula and the Brazilian Workers' Party_. London: Latin America Bureau.
 
 [^7]:
-     Berkley Center for Religion, and Georgetown University. “Carnival Reveals Much about Gender, Sexuality, and Culture in Brazil.” Berkley Center fo Religion, Peace and World Affairs. Accessed April 16, 2020. https://berkleycenter.georgetown.edu/posts/carnival-reveals-much-about-gender-sexuality-and-culture-in-brazil.
+     Berkley Center for Religion, and Georgetown University. “Carnival Reveals Much about Gender, Sexuality, and Culture in Brazil.” Berkley Center for Religion, Peace and World Affairs. Accessed April 16, 2020. https://berkleycenter.georgetown.edu/posts/carnival-reveals-much-about-gender-sexuality-and-culture-in-brazil.
 
 [^8]:
      Lewis, J. Lowell. “Sex and Violence in Brazil: Carnaval, Capoeira, and the Problem of Everyday Life.” AnthroSource. John Wiley & Sons, Ltd, January 7, 2008. http://onlinelibrary.wiley.com/doi/10.1525/ae.1999.26.3.539/abstract.
