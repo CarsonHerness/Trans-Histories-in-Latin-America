@@ -3,7 +3,7 @@ layout: post
 title:  "Lessons From Travesti and Trans Activism"
 author: jordy
 categories: [ travesti, translation, Brazil, activism ]
-featured: false
+featured: true
 category: [ "trans studies", "region"]
 image: "./assets/images/jordy2.jpg"
 ---

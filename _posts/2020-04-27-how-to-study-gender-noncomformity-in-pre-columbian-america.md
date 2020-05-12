@@ -4,7 +4,7 @@ title:  "How to Study Gender-Nonconformity in Pre-Columbian America"
 author: jordy
 categories: [ gender-nonconformity, trans-national, trans studies, pre-colonial ]
 category: "trans studies"
-featured: true
+featured: false
 image: "./assets/images/jordy1.png"
 ---
 The term “transgender” is most helpful in discussing the modern gender systems and identities around which it came into use; in other contexts, like the study of pre-colonial America, using trans as a framework can erase differences in how gender functions in times and places that are known primarily through the study of archaeology and historical texts. What should scholars of gender nonconformity do when talking about such histories?

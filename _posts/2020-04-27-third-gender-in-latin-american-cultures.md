@@ -3,7 +3,7 @@ layout: post
 title:  "From the Colonial Past to the Present: The Third Gender in Latin American Cultures"
 author: becky
 categories: [ colonial, third gender, Latin America ]
-featured: true
+featured: false
 category: "trans studies"
 image: "./assets/images/becky-third-gender.jpg"
 ---
