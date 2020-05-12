@@ -5,12 +5,12 @@ author: vi
 categories: [ online, activism ]
 featured: true
 category: "contemporary"
-image: "./assets/images/jumbotron.jpg"
+image: "./assets/images/internet.jpg"
 ---
 
 Online activism exponentially increases the coalition of marginalized communities and allows individuals to communicate with millions of other similar minded people. Platforms can be social media networks, blogs, phones, online petitions and more. The LGBQTI community in Latin America coalize as internet activists advocate for increased representation, provide research and information, and join petitions to secure internet freedom.
 
-Photo by ADD PHOTO
+Image from [pixabay.com](https://pixabay.com/photos/businessman-internet-continents-2682712/).
 
 <hr>
 
