@@ -27,8 +27,9 @@
     display_name: Jordy Gertner
     avatar: 'assets/images/jordy.png'
     gravatar: 62a592d75b18fe3ef4f5553aa1c87cd5
-    description: "Junior at Pomona College. (she/her/hers)"
-    bio: "Jordy is a junior at Pomona College."
+    description: "Junior at Pomona College (she/her/hers)"
+    bio: |
+      I am a rising senior studying Mathematics at Pomona College. After working in the summer of 2019 with the legal non-profit Santa Fe Dreamer’s Project and supporting their program of legal defense for trans women seeking asylum, I became especially interested in transnational transgender issues. In order to learn more about the history of sexually and gender-diverse people, I took Gender and Sexuality in Latin America and chose to create this blog with the other authors. For my contributions, I’ve researched and written in-depth about how frameworks for understanding gender diversity impact scholars and activists between Latin America and the anglosphere. None of this work would‘ve been possible without the historical and theoretical learning I did in this class. I believe that theoretical and political work by gender non-conforming people is of the highest importance when writing trans history.
   vi:
     name: Vi
     display_name: Vi Nguyen
