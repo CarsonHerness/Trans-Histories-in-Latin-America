@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "Transgender Laws Across Latin America"
+title:  "Changing Legal Name and Sex/Gender in Latin America"
 author: carson
 categories: [ Latin America, law, politics ]
 category: contemporary
 featured: true
 image: "./assets/images/marcha_de_las_putas.jpg"
 ---
-Laws pertaining to transgender people have changed rapidly in the last few years, especially in South America. View current status of different South American countries.
+Laws pertaining to transgender people have changed rapidly in the last few years, especially in South America. Learn about current scholarship on the topic.
 
-Photo by Jessie Floyd.
+Photo by Jessie Floyd of Marcha de Las Putas in Quito, Ecuador, November 2019.
 
 <hr>
 
