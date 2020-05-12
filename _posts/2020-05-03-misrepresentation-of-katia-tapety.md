@@ -18,13 +18,11 @@ Image from [pexel.com](https://www.pexels.com/) of a church in Piaui, Brazil.
 
 In the 1970s, the democratization process for Brazilians allowed the “GLT” (Gay, Lesbian, Trans) movement to use elected positions and political parties to gain more representation on the political agenda.[^3] However, Brazil has a history of strong presidencies and weak political parties.[^4] **What are the prospects for marginalized groups within this system of weak parties?**
 
-The liberal left in Brazil united through civil rights groups in defiance of the conservative religious culture.[^5]  Rallies and protests created immediate responses while political parties created eventual institutional change. The first gay and lesbian organization in Brazil, Grupos Somos, attempted to address secondary help issues through aid prevention programs, infrastructure, and poverty alleviation.[^6] These programs assisted the intersectional issues gay, lesbian and transgender people faced. GLT people in Brazil are prone to the risk of aids, violence, homelessness, substance abuse issues and more.[^7] While political parties are not the sole method for change used by GLTs, they advance the recognition of this marginalized group as a political actor in state institutions. 
+The liberal left in Brazil united through civil rights groups in defiance of the conservative religious culture.[^5]  Rallies and protests created immediate responses while political parties created eventual institutional change. The first gay and lesbian organization in Brazil, Grupos Somos, attempted to address secondary help issues through aid prevention programs, infrastructure, and poverty alleviation.[^6] [^7]These programs assisted the intersectional issues gay, lesbian and transgender people faced. GLT people in Brazil are prone to the risk of aids, violence, homelessness, substance abuse issues and more.[^8] While political parties are not the sole method for change used by GLTs, they advance the recognition of this marginalized group as a political actor in state institutions. 
 
-Many scholars claimed that GLT politicians and activists sought support from both parties by focusing on other issues that affect the GLT community and avoiding GLT issues as their central mission.[^8] When analyzing GLT politicians like transvestite Kátia Tapety, who was first elected with the right-wing Liberal Front Party, scholars are quick to say these types of candidates dissociate from GLT movements as a political tactic.[^9] This is a surface-level analysis of women like Kátia who are at the forefront of the GLT movement. Political scientists focus on general trends in politics and analyze Kátia Tapety based on her attendance to GLT events, GLT legislation and programs produced. It is important to bring to light the intersectionality of Kátia's identity and her story must be told by more than political analysis. To understand Kátia’s political motives and impact we must understand her story. 
+Many scholars claimed that GLT politicians and activists sought support from both parties by focusing on other issues that affect the GLT community and avoiding GLT issues as their central mission.[^9] When analyzing GLT politicians like transvestite Kátia Tapety, who was first elected with the right-wing Liberal Front Party, scholars are quick to say these types of candidates dissociate from GLT movements as a political tactic.[^10] This is a surface-level analysis of women like Kátia who are at the forefront of the GLT movement. Political scientists focus on general trends in politics and analyze Kátia Tapety based on her attendance to GLT events, GLT legislation and programs produced. It is important to bring to light the intersectionality of Kátia's identity and her story must be told by more than political analysis. To understand Kátia’s political motives and impact we must understand her story. 
 
-Kátia grew up in a family of politicians but she was expected to stay at home hidden from society because of her homosexuality.[^10] Her father kicked her out and left her with nothing when she refused to succumb to his standards and to this day, all of her brothers except for one refer to her by her original, male name. Hardworking, she began to look towards liberal politicians like Ciro Gomes as inspiration.[^11] Kátia became a farmer, politician, lawyer, doctor, mother and more. As she says in her self-titled documentary, “I'm a jack of all trades, I'm a woman, I do man's work. Everything the guys do I do.”[^12]
-
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/aQok38s7mMA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+Kátia grew up in a family of politicians but she was expected to stay at home hidden from society because of her homosexuality.[^11] Her father kicked her out and left her with nothing when she refused to succumb to his standards and to this day, all of her brothers except for one refer to her by her original, male name. Hardworking, she began to look towards liberal politicians like Ciro Gomes as inspiration.[^12] Kátia became a farmer, politician, lawyer, doctor, mother and more. As she says in her self-titled documentary, “I'm a jack of all trades, I'm a woman, I do man's work. Everything the guys do I do.”[^13]
 
 In the first few minutes of the documentary Kátia, “bring me some foundation, they have the best foundation in Sao Paulo they don't have anything good in Teresina or Piaui.” In the Colônia do Piauí there are infrastructure issues, people dying from drought and starvation, an HIV epidemic and Kátia has dedicated her livelihood to address these issues. She is more focused on welfare-related legislation than a GLT focused agenda because her city needs basic welfare in order to begin the process of accepting substantive civil rights legislation. In her 12 years as a city councilwoman, she did not present any projects relating to GLT issues for this reason. 
 
@@ -34,7 +32,7 @@ Katia is described by the director of the documentary as an exciting, energetic,
 
 Katia’s cousin claims that homophobia left the city’s dominant narrative as Katia’s leadership strengthened. Her work and social contributions improve the position of trans people in her society. A local testified to this statement saying, “for a trans person to be elected is important, she wasn't voted in by trans people, she was elected by the votes of society in general, it increased the desire of many girls to run, as of now we have five transvestites elected in Brazil.” 
 
-Given Piaui which had once been called the, “state archaic and symbolic of government corruption,”[^13] Tapety’s leadership position has been quite transformative.[^14] A tourist to the city of Piaui noted in a letter that “At almost every intersection, posters advertised an upcoming “Diversity Pride week” organized by local gay groups” and “Cars for the upcoming elections waving rainbow flags.”[^15]
+Given Piaui which had once been called the, “state archaic and symbolic of government corruption,”[^14] Tapety’s leadership position has been quite transformative.[^15] A tourist to the city of Piaui noted in a letter that “At almost every intersection, posters advertised an upcoming “Diversity Pride week” organized by local gay groups” and “Cars for the upcoming elections waving rainbow flags.”[^16]
 
 One of the most impactful scenes in her self titled documentary for me was a moment during an LGBT conference where Kátia worries if her cattle at home are still alive. It demonstrates the difficulty Kátia has in political participation due to the nature of her intersectionality. Intersectionality covers Kátia’s race, class and gender and how they overlap to disadvantage her. It is difficult for a trans woman living in an impoverished city to be as active as some political scientists would like. 
 
@@ -63,28 +61,31 @@ There is such a thing as too much historical analysis. I believe those who perce
      Mauersberger, Christof, and Mauersberger, Christof, 4949 49 30 83851 047, c.mauersberger@fu-berlin.de, Otto-Suhr-Institute for Political Science (International Political Economy), Free University Berlin, Berlin, Germany. 2016. “Advocacy Coalitions and Democratizing Media Reforms in Latin America : Whose Voice Gets on the Air?” Essay. In _Brazil: Much Debate About No Reform_, 149–223. Cham : Springer International Publishing : Springer. https://doi.org/10.1007/978-3-319-21278-4_5.
 
 [^7]:
-     Sevelius, Jae, Laura Rebecca Murray, Nilo Martinez Fernandes, Maria Amelia Veras, Beatriz Grinsztejn, and Sheri A Lippman. 2019. “Optimising Hiv Programming for Transgender Women in Brazil.” _Culture, Health & Sexuality_ 21 (5): 543–58. https://doi.org/10.1080/13691058.2018.1496277.
+     Corrales, Javier, and Corrales, Javier. 2010. “Appendix: Timeline of Lgbt Political Landmarks in the Americas.” Essay. In _Appendix: Timeline of Lgbt Political Landmarks in the Americas_, 429–36. https://doi.org/10.2307/j.ctt5vkfk6.40.
 
 [^8]:
-     Ibid.
+     Sevelius, Jae, Laura Rebecca Murray, Nilo Martinez Fernandes, Maria Amelia Veras, Beatriz Grinsztejn, and Sheri A Lippman. 2019. “Optimising Hiv Programming for Transgender Women in Brazil.” _Culture, Health & Sexuality_ 21 (5): 543–58. https://doi.org/10.1080/13691058.2018.1496277.
 
 [^9]:
      Ibid.
 
 [^10]:
-     _Katia_. _Amazon Video_, 2012. https://www.amazon.com/Katia-Kátia-Tapety/dp/B071J2N51B.
-
-[^11]:
-    Ibid.  
-
-[^12]:
-     Ibids.
-
-[^13]:
      Ibid.
 
+[^11]:
+     _Katia_. _Amazon Video_, 2012. https://www.amazon.com/Katia-Kátia-Tapety/dp/B071J2N51B.
+
+[^12]:
+    Ibid.  
+
+[^13]:
+     Ibids.
+
 [^14]:
-     Soifer, Raphael. “Out a Night in Tersina.” _Institute of Current World Affairs_, December 2008. http://www.icwa.org/wp-content/uploads/2015/11/RS-13.pdf.
+     Ibid.
 
 [^15]:
+     Soifer, Raphael. “Out a Night in Tersina.” _Institute of Current World Affairs_, December 2008. http://www.icwa.org/wp-content/uploads/2015/11/RS-13.pdf.
+
+[^16]:
      Ibid.
