@@ -37,17 +37,15 @@ Adoption of non-binary or gender-neutral language in Spanish depends greatly on 
 
 When I studied in Ecuador in the fall of 2019, most of the Spanish teachers at the local Spanish as a foreign language school were not familiar with gender-neutral Spanish using the “e.” La Real Academia Española (Royal Spanish Academy) officially rejects the use of “x” in place of the “o” or “a.”[^6]
 
-
-<blockquote class="twitter-tweet tw-align-center"><p lang="es" dir="ltr">&quot;CADA ARGENTINE&quot;:<br>Por el término que utilizó Alberto Fernández<a href="https://t.co/0t6VMU6Q84">pic.twitter.com/0t6VMU6Q84</a></p>&mdash; ¿Por qué es tendencia? (@porquetendencia) <a href="https://twitter.com/porquetendencia/status/1241790871869296647?ref_src=twsrc%5Etfw">March 22, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet tw-align-center" data-theme="light"><p lang="es" dir="ltr"><a href="https://twitter.com/hashtag/RAEconsultas?src=hash&amp;ref_src=twsrc%5Etfw">#RAEconsultas</a> La letra «x» no forma parte de los morfemas de género del sistema lingüístico del español.</p>&mdash; RAE (@RAEinforma) <a href="https://twitter.com/RAEinforma/status/893027805398790144?ref_src=twsrc%5Etfw">August 3, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Among native speakers of Spanish, understanding and adoption of gender-neutral language depends on many factors, similar to similar cases in English. Amongst the host families in my study abroad program, I’d estimate that most of the parents would not be familiar with gender-neutral Spanish using the “e.” However, many of the children and young adults would be familiar and maybe know someone who uses the pronoun _elle_ (instead of the masculine _él_ or the feminine _ella_). When working with Proyecto Transgénero in Quito, Ecuador, I met locals who used _elle_ for their personal pronoun and other people I worked with utilized the “e” ending in their everyday speech.
-
 
 ### Argentina: an example of official adoption 
 
 Beyond activists, young people, and non-binary people, who is using gender neutral language in Spanish? _The New York Times_ reported in April of 2020 that the [Argentinian president used gender neutral language in an official speech to the country](https://www.nytimes.com/2020/04/15/world/americas/argentina-gender-language.html?smid=fb-nytimes&smtyp=cur&fbclid=IwAR2eDIE7e3AcxXdwIKbLULUutJx7xgqCIlFYWuLlMbVdivmoK2H_o4MhSeU).[^7]
 
-<blockquote class="twitter-tweet tw-align-center" data-theme="light"><p lang="es" dir="ltr"><a href="https://twitter.com/hashtag/RAEconsultas?src=hash&amp;ref_src=twsrc%5Etfw">#RAEconsultas</a> La letra «x» no forma parte de los morfemas de género del sistema lingüístico del español.</p>&mdash; RAE (@RAEinforma) <a href="https://twitter.com/RAEinforma/status/893027805398790144?ref_src=twsrc%5Etfw">August 3, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet tw-align-center"><p lang="es" dir="ltr">&quot;CADA ARGENTINE&quot;:<br>Por el término que utilizó Alberto Fernández<a href="https://t.co/0t6VMU6Q84">pic.twitter.com/0t6VMU6Q84</a></p>&mdash; ¿Por qué es tendencia? (@porquetendencia) <a href="https://twitter.com/porquetendencia/status/1241790871869296647?ref_src=twsrc%5Etfw">March 22, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Argentina in particular has been recognized for its progressive stance on queer rights, acting as a world leader on many queer issues. 
 
