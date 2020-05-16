@@ -3,7 +3,7 @@ layout: post
 title:  "Non-binary language in Spanish"
 author: carson
 categories: [ Spanish, translation, non-binary ]
-featured: false
+featured: true
 category: [ "trans studies" ]
 image: "./assets/images/non-binary.jpg"
 ---

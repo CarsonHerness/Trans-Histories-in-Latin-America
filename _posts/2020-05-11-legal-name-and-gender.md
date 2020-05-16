@@ -4,7 +4,7 @@ title:  "Changing Legal Name and Sex/Gender in Latin America"
 author: carson
 categories: [ Latin America, law, politics ]
 category: contemporary
-featured: true
+featured: false
 image: "./assets/images/marcha_de_las_putas.jpg"
 ---
 Being able to legally change one's legal name and gender can be key for trans people, and many laws have rapidly changed in the last few years, especially in South America. Read more to learn about current scholarship on the topic.
@@ -12,8 +12,6 @@ Being able to legally change one's legal name and gender can be key for trans pe
 Photo by Jessie Floyd of Marcha de Las Putas in Quito, Ecuador, November 2019.
 
 <hr>
-
-# Legal Name and Sex/Gender
 
 For many trans people, changing their legal name and sex is a key part of transitioning. Not only does it allow their paperwork and legal ID to reflect their actual name and gender; it also provides safety by not outing their trans status to employers, landlords, and other places where being trans often leads to discrimination. Changing legal name and gender helps trans people to live their lives with privacy and dignity.
 
@@ -39,7 +37,16 @@ Even though Campbell’s research was published recently in 2019, it already can
 
 ## Mexico
 
-In [this recent news article from El Milenio](https://www.milenio.com/politica/comunidad/personas-transgenero-vallarta-facilita-cambio-identidad), Jorge Marínez reported that as of 2020, citizens in coastal town Puerto Vallarta can change their legal name and sex on their birth certificate.[^3] Marínez noted that Puerto Vallarta is the only municipality in the state of Jalisco to allow legal name and sex of transgender persons to be changed.
+In Mexico, there is not currently a national policy, but many states and some cities permit trans people to change their legal name and gender.
+
+
+In 2004, Mexico City began to allow trans people to change their legal name and sex on their birth certificates.[^3] As of 2015, more than 3000 people had done so.[^4]
+
+In 2018, a landmark ruling by the Mexican Supreme Court said that a transgender person’s civil rights were violated by the Civil Registry of Veracruz when they were not able to change their legal name and gender.[^5] However, despite the national court’s ruling, this did not signify a national right for transgender people in Mexico due to the filing nature of the case.
+
+Many Mexican states now also allow trans people to change their legal name and sex, with many law changes happening in 2018 and 2019. For a full list of states, check out [this Wikipedia article](https://en.wikipedia.org/wiki/LGBT_rights_in_Mexico#Gender_identity_and_expression) and follow the linked sources.
+
+In [this recent news article from El Milenio](https://www.milenio.com/politica/comunidad/personas-transgenero-vallarta-facilita-cambio-identidad), Jorge Marínez reported that as of 2020, citizens in coastal town Puerto Vallarta can change their legal name and sex on their birth certificate.[^6] Marínez noted that Puerto Vallarta is the only municipality in the state of Jalisco to allow legal name and sex of transgender persons to be changed.
 
 
 ## Ecuador
@@ -48,13 +55,26 @@ I studied abroad in Quito, Ecuador in Fall 2019, so I know this from my research
 
 Currently in Quito, changing legal name and gender is a fairly simple administrative process, but like any administrative process, there can be hiccups in the process. Also, it’s worth noting that while technically Ecuadorians can change their gender on their government ID (their cédula), their updated ID is different than IDs of their cisgender counterparts. After updating their cédula, it reads _Gender: masculine _instead of _Sex: male_, like it does for cisgender citizens (translated from Spanish). Therefore, their IDs outs them as trans to someone who recognizes the difference.
 
+In addition, their legal sex does not change, meaning that when a trans man marries a cisgender woman in Quito, they are married as “wives.”
+
 How does this affect transgender people in Quito? Among my friends, most still choose to change their gender on their cédula, because it was something. One refused until the policy changed, since he didn’t want to officially be recognized as a second-class citizen by having a “second-class” marker on his cédula (género).
 
 
 ## Argentina
 
-Argentina has been known to be a world leader in transgender rights. In 2012, Argentina passed a gender identity law permitting trans people to legally change their gender without requiring medical treatment or diagnoses or a specific gender presentation.[^4]
+Argentina has been known to be a world leader in transgender rights. In 2012, Argentina passed a gender identity law permitting trans people to legally change their gender without requiring medical treatment or diagnoses or a specific gender presentation.[^7]
 
+
+## Further resources
+
+This article is by no means comprehensive, but there are many more sources to learn more. Here are some websites to check out:
+
+
+
+*   [Outright Action International](https://outrightinternational.org/region/latin-america): view articles and overviews for different countries
+*   [Wikipedia](https://en.wikipedia.org/wiki/LGBT_rights_in_Mexico#Gender_identity_and_expression): while Wikipedia gets a bad reputation, it’s “LGBT rights in &lt;country>” pages provide quick overviews of a country’s situation, with linked sources.
+*   [Human Rights Watch](https://www.hrw.org/americas)
+*   [Equaldex](https://www.equaldex.com/): map of different LGBT rights with linked sources. I’d highly recommend this resource for getting quick answers about different legal rights, but make sure to follow sources since the information is crowd-sourced (like Wikipedia).
 
 <!-- Footnotes themselves at the bottom. -->
 ## Notes
@@ -66,7 +86,16 @@ Argentina has been known to be a world leader in transgender rights. In 2012, Ar
     Jacob R Longaker and Donald P Haider-Markel, “Transgender Policy in Latin American Countries: An Overview and Comparative Perspective on Framing,” in Transgender Rights and Politics: Groups, Issue Framing, and Policy Adoption (Ann Arbor, MI: University of Michigan Press, 2014), pp. 49-80, [www.jstor.org/stable/10.3998/mpub.4883502.5](www.jstor.org/stable/10.3998/mpub.4883502.5))
 
 [^3]:
-    Jorge Martínez, “Vallarta Facilita El Cambio De Identidad a Personas Transgénero,” Milenio, April 2, 2020, [https://www.milenio.com/politica/comunidad/personas-transgenero-vallarta-facilita-cambio-identidad](https://www.milenio.com/politica/comunidad/personas-transgenero-vallarta-facilita-cambio-identidad)
+     “Mexico: Mexico City Amends Civil Code to Include Transgender Rights,” Outright International (Outright Action International, June 15, 2004), [https://outrightinternational.org/content/mexico-mexico-city-amends-civil-code-include-transgender-rights](https://outrightinternational.org/content/mexico-mexico-city-amends-civil-code-include-transgender-rights))
 
 [^4]:
+     “Se han realizado 3 mil 481 rectificaciones de actas de nacimiento de personas transgénero en CDMX,” Desastre (Desastre, October 15, 2018), [https://web.archive.org/web/20190122185749/http://desastre.mx/mexico/se-han-realizado-3-mil-481-rectificaciones-de-actas-de-nacimiento-de-personas-transgenero-en-cdmx/](https://web.archive.org/web/20190122185749/http://desastre.mx/mexico/se-han-realizado-3-mil-481-rectificaciones-de-actas-de-nacimiento-de-personas-transgenero-en-cdmx/))
+
+[^5]:
+     Neela Ghoshal, “Mexico Transgender Ruling a Beacon for Change,” Human Rights Watch, October 29, 2018, [https://www.hrw.org/news/2018/10/29/mexico-transgender-ruling-beacon-change](https://www.hrw.org/news/2018/10/29/mexico-transgender-ruling-beacon-change))
+
+[^6]:
+    Jorge Martínez, “Vallarta Facilita El Cambio De Identidad a Personas Transgénero,” Milenio, April 2, 2020, [https://www.milenio.com/politica/comunidad/personas-transgenero-vallarta-facilita-cambio-identidad](https://www.milenio.com/politica/comunidad/personas-transgenero-vallarta-facilita-cambio-identidad)
+
+[^7]:
      “Ministerio De Justicia y Derechos Humanos,” Argentina.gob.ar, May 12, 2020, [http://www.jus.gob.ar/media/3108867/ley_26743_identidad_de_genero.pdf](http://www.jus.gob.ar/media/3108867/ley_26743_identidad_de_genero.pdf))
